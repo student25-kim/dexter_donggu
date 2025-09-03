@@ -65,3 +65,10 @@ main {
   font-weight: 500;
   color: #888;
 }
+.banner {
+  background-image: url('/assets/banner.jpg');
+  background-size: cover;       /* 요소를 꽉 채움 */
+  background-position: center;  /* 중앙 정렬 */
+  background-repeat: no-repeat; /* 반복 안 함 */
+}
+
