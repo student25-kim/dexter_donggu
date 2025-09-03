@@ -65,12 +65,13 @@ main {
   font-weight: 500;
   color: #888;
 }
-.hero-banner {
-  background-image: url('file:///Users/gimjunseo/Desktop/pos/banner.jpg');
+/* css/style.css */
+.hero {
+  background-image: url('../img/banner.jpg');
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
   height: 300px;
 }
+
 
 
