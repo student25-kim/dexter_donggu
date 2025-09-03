@@ -65,10 +65,12 @@ main {
   font-weight: 500;
   color: #888;
 }
-.banner {
-  background-image: url('../pos/banner.jpg');
-  background-size: cover;       /* 요소를 꽉 채움 */
-  background-position: center;  /* 중앙 정렬 */
-  background-repeat: no-repeat; /* 반복 안 함 */
+.hero-banner {
+  background-image: url('../img/banner.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 300px;
 }
+
 
